@@ -2,6 +2,7 @@
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning C#
 - ❤️ I’m from Vietnam <3
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoneNone)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
