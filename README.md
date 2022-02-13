@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning C#
 - ❤️ I’m from Vietnam <3
-- https://github-readme-stats.vercel.app/api?username=LoneNone
+
 
 <!---
 LoneNone/LoneNone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
