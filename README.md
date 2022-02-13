@@ -4,7 +4,7 @@
 - ❤️ I’m from Vietnam <3
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoneNone)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoneNone&show_icons=true&theme=dark)
 
 
 <!---
