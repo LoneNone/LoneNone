@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LoneNone
+- 👋 Hi, I’m LoneNone
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning C#
 - ❤️ I’m from Vietnam <3
